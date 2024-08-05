@@ -1,0 +1,12 @@
+{
+  "name": "SMF-Arcade-EmulatorJS",
+  "version": "4.0.6.1",
+  "repository": "https://github.com/Underdog-01/ArcadeRetroArch",
+  "license": "GPL-3.0",
+  "scripts": {
+    "start": "http-server"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}

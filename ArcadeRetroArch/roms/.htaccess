@@ -1,0 +1,10 @@
+<Files *>
+	Order Deny,Allow
+	Deny from all
+	Allow from localhost
+</Files>
+<FilesMatch ".(zip|7z|fds|nes|unif|unf|smc|fig|sfc|gd3|gd7|dx2|bsx|swc|z64|n64|nds|gba|gb|gbc|cgb|z64|v64|ss|gdi|scd|smd|sms|sgg|a26|a78|al|bin|dat|lst|j64|pce|pcfx|jpg|jpeg|jfif|pjpeg|pjp|png|apng|avif|gif|bmp|ico|dat)$">
+	Order Deny,Allow
+    Allow from all
+</FilesMatch>
+RemoveHandler .exe .php .php3 .phtml .cgi .fcgi .pl .fpl .shtml
