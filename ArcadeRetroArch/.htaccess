@@ -1,4 +1,0 @@
-Options -Indexes
-<IfModule dir_module>
-	DirectoryIndex index.php index.html /pagenotfound.html
-</IfModule>
