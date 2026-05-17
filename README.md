@@ -13,6 +13,6 @@ License: MIT ~ https://opensource.org/license/mit
 
 ROM image files -> 
 Source: Reshot
-Link: https://www.reshot.com/ [Defunct website no longer exists] 
+Link: https://www.reshot.com/ (defunct website no longer exists) 
 License: Permissive Open Source
 </pre>
