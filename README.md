@@ -12,7 +12,7 @@ Link: https://primer.style/octicons/  (referenced source from GitHub Docs)
 License: MIT ~ https://opensource.org/license/mit
 
 ROM image files -> 
-Envato
-Link: https://elements.envato.com/ (Formally Redshot @ https://www.reshot.com/ -> Defunct)
+Redshot
+Link: https://www.reshot.com/ [Defunct website no longer exists] 
 License: Permissive Open Source
 </pre>
