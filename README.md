@@ -1,5 +1,6 @@
 A selection of free icons from the web with a text form of each license included in their parent folders.
 
+<pre>
 PayPal icons -> 
 Icon Archive 
 Link: https://www.iconarchive.com/
@@ -14,3 +15,4 @@ ROM image files ->
 Envato
 Link: https://elements.envato.com/ (Formally Redshot @ https://www.reshot.com/ -> Defunct)
 License: Permissive Open Source
+</pre>
